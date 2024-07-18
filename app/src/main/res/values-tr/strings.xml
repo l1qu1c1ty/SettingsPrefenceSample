@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ayarlar Tercih Örneği</string>
+    <string name="language_preferences">Dil Tercihleri</string>
+    <string name="select_language">Dil Seç</string>
+    <string name="theme_preferences">Tema Tercihleri</string>
+    <string name="dark_mode">Karanlık Mod</string>
+    <string name="storage_options">Depolama Tercihleri</string>
+    <string name="use_external_storage">Harici Depolamayı Kullan</string>
+    <string name="other_options">Diğer Tercihler</string>
+    <string name="show_system_apps">Sistem Uygulamalarını Göster</string>
+    <string name="language_summary">Tercih ettiğiniz dili seçin</string>
+    <string name="language_title">Dil Seçin</string>
+    <string name="dark_mode_summary">Karanlık modu aç veya kapat</string>
+    <string name="use_external_storage_summary">Harici depolama kullan veya kullanma</string>
+    <string name="show_system_apps_summary">Sistem uygulamalarını göster veya gizle</string>
+</resources>
+

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Settings Preferences Sample</string>
+    <string name="language_preferences">Language Preferences</string>
+    <string name="select_language">Select Language</string>
+    <string name="theme_preferences">Theme Preferences</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="storage_options">Storage Options</string>
+    <string name="use_external_storage">Use External Storage</string>
+    <string name="other_options">Other Options</string>
+    <string name="show_system_apps">Show System Apps</string>
+    <string name="language_summary">Choose your preferred language</string>
+    <string name="language_title">Select Language</string>
+    <string name="dark_mode_summary">Enable or disable dark mode</string>
+    <string name="use_external_storage_summary">Enable or disable external storage</string>
+    <string name="show_system_apps_summary">Show or hide system applications</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Esempio Preferenze Impostazioni</string>
+    <string name="language_preferences">Preferenze Lingua</string>
+    <string name="select_language">Seleziona Lingua</string>
+    <string name="theme_preferences">Preferenze Tema</string>
+    <string name="dark_mode">Modalità Scura</string>
+    <string name="storage_options">Opzioni di Archiviazione</string>
+    <string name="use_external_storage">Usa Archiviazione Esterna</string>
+    <string name="other_options">Altre Opzioni</string>
+    <string name="show_system_apps">Mostra App di Sistema</string>
+    <string name="language_summary">Scegli la tua lingua preferita</string>
+    <string name="language_title">Seleziona la lingua</string>
+    <string name="dark_mode_summary">Abilita o disabilita la modalità scura</string>
+    <string name="use_external_storage_summary">Abilita o disabilita l\'archiviazione esterna</string>
+    <string name="show_system_apps_summary">Abilita o disabilita la visualizzazione di app di sistema</string>
+</resources>
